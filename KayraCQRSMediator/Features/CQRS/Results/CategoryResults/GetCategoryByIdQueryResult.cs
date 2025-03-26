@@ -9,6 +9,6 @@ namespace KayraCQRSMediator.Features.CQRS.Results.CategoryResults
 
         public string ImageUrl { get; set; }
 
-        public IList<Product> Products { get; set; }
+        
     }
 }

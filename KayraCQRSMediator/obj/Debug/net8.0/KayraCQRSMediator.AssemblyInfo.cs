@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KayraCQRSMediator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e30563f9112071e3c678c860a00ec02fd9275b9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c783629f9cfc8da974e8946ddd2dddb3b5366e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("KayraCQRSMediator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KayraCQRSMediator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

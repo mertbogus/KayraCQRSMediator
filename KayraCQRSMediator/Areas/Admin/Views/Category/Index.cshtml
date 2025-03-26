@@ -18,10 +18,10 @@
             <th>@count</th>
             <td>@item.CategoryName</td>
             <td>
-                <a href="#" class="btn btn-danger">Sil</a>
-                <a href="#" class="btn btn-info">Güncelle</a>
+                <a href="/Admin/Category/DeleteCategory/@item.CategoryId" class="btn btn-danger">Sil</a>
+                <a href="/Admin/Category/UpdateCategory/@item.CategoryId" class="btn btn-info">Güncelle</a>
             </td>
         </tr>
     }
 </table>
-<a href="#" class="btn btn-primary">Yeni Kategori Ekle</a>
+<a href="/Admin/Category/CreateCategory/" class="btn btn-primary mt-2">Yeni Kategori Ekle</a>

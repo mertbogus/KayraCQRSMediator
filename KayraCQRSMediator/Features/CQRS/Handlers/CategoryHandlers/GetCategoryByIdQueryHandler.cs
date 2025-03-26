@@ -3,11 +3,15 @@ using KayraCQRSMediator.Features.CQRS.Queries.CategoryQueries;
 using KayraCQRSMediator.Features.CQRS.Results.CategoryResults;
 using KayraCQRSMediator.Repositories;
 
-namespace KayraCQRSMediator.Features.CQRS.Handlers
+namespace KayraCQRSMediator.Features.CQRS.Handlers.CategoryHandlers
 {
     public class GetCategoryByIdQueryHandler
     {
         private readonly IRepository<Category> _repository;
+
+        public GetCategoryByIdQueryHandler()
+        {
+        }
 
         public GetCategoryByIdQueryHandler(IRepository<Category> repository)
         {
@@ -22,8 +26,13 @@ namespace KayraCQRSMediator.Features.CQRS.Handlers
                 CategoryId = category.CategoryId,
                 CategoryName = category.CategoryName,
                 ImageUrl = category.ImageUrl,
-                Products = category.Products,
+                
             };
+        }
+
+        internal async Task Handle(GetCategoryByIdQueryHandler getCategoryByIdQueryHandler)
+        {
+            throw new NotImplementedException();
         }
     }
 }

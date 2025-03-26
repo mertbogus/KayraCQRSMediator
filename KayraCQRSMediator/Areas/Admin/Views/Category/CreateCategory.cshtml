@@ -1,0 +1,14 @@
+﻿@model CreateCategoryCommand
+@{
+    ViewData["Title"] = "CreateCategory";
+}
+
+<h1>Kategori Ekle</h1>
+<form method="post" class="mt-2">
+    <label>Kategori Adı</label>
+    <input type="text" asp-for="CategoryName" class="form-control" />
+    <label>Kategori Resmi</label>
+    <input type="text" asp-for="ImageUrl" class="form-control" />
+    <button class="btn btn-primary">Kaydet</button>
+</form>
+
