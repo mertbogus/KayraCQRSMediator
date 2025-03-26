@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F78BC9-B051-4F89-8F9E-370FDD5EA89D}|KayraCQRSMediator\\KayraCQRSMediator.csproj|c:\\users\\mert\\source\\repos\\kayracqrsmediator\\kayracqrsmediator\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0F78BC9-B051-4F89-8F9E-370FDD5EA89D}|KayraCQRSMediator\\KayraCQRSMediator.csproj|solutionrelative:kayracqrsmediator\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F78BC9-B051-4F89-8F9E-370FDD5EA89D}|KayraCQRSMediator\\KayraCQRSMediator.csproj|c:\\users\\mert\\source\\repos\\kayracqrsmediator\\kayracqrsmediator\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F78BC9-B051-4F89-8F9E-370FDD5EA89D}|KayraCQRSMediator\\KayraCQRSMediator.csproj|solutionrelative:kayracqrsmediator\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F78BC9-B051-4F89-8F9E-370FDD5EA89D}|KayraCQRSMediator\\KayraCQRSMediator.csproj|c:\\users\\mert\\source\\repos\\kayracqrsmediator\\kayracqrsmediator\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F78BC9-B051-4F89-8F9E-370FDD5EA89D}|KayraCQRSMediator\\KayraCQRSMediator.csproj|solutionrelative:kayracqrsmediator\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "KayraCQRSMediator\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "KayraCQRSMediator\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T02:16:43.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "KayraCQRSMediator\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "KayraCQRSMediator\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T02:05:38.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "KayraCQRSMediator\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "KayraCQRSMediator\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wCsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:22:10.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
