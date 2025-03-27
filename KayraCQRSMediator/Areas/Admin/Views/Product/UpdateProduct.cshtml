@@ -1,0 +1,26 @@
+﻿@model GetProductByIdQueryResult
+@{
+    ViewData["Title"] = "UpdateProduct";
+}
+
+<h1>Ürün Güncelle</h1>
+<form method="post">
+    <input type="hidden" asp-for="ProductId" />
+    <label>Ürün Adı</label>
+    <input type="text" asp-for="ProductName" class="form-control" />
+    <br />
+    <label>Ürün Görseli</label>
+    <input type="text" asp-for="ImageUrl" class="form-control" />
+    <br />
+    <label>Ürün Fiyatı</label>
+    <input type="number" asp-for="ProductPrice" class="form-control" />
+    <br />
+    <label>Kategori</label>
+    <select asp-for="CategoryId" class="form-control" asp-items="@ViewBag.Categories">
+        <option disabled>Kategori Seçiniz</option>
+    </select>
+    <br />
+
+    <button class="btn btn-primary">Güncelle</button>
+
+</form>

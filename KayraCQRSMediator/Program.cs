@@ -2,10 +2,18 @@ using KayraCQRSMediator.DataAcces.Context;
 using KayraCQRSMediator.Features.CQRS.Handlers.CategoryHandlers;
 using KayraCQRSMediator.Repositories;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
+//auto mapper ekle, bulunduðun katman da arat.
+builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
 
+//MediatR ayarlanmasý 
+builder.Services.AddMediatR(config =>
+{
+    config.RegisterServicesFromAssemblies(Assembly.GetExecutingAssembly());
+});
 
 builder.Services.AddScoped<GetCategoryQueryHandler>();
 builder.Services.AddScoped<GetCategoryByIdQueryHandler>();

@@ -1,6 +1,7 @@
 ﻿
 using KayraCQRSMediator.DataAcces.Context;
 using Microsoft.EntityFrameworkCore;
+using System.Linq.Expressions;
 
 namespace KayraCQRSMediator.Repositories
 {
@@ -28,8 +29,12 @@ namespace KayraCQRSMediator.Repositories
             await _context.SaveChangesAsync();
         }
 
-        public async Task<List<T>> GetAllAsync()
+        public async Task<List<T>> GetAllAsync(Expression<Func<T, object>> include= null)
         {
+            if (include!=null)
+            {
+                return await _table.AsNoTracking().Include(include).ToListAsync();
+            }
             return await _table.AsNoTracking().ToListAsync();
         }
 
