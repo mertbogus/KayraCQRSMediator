@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F78BC9-B051-4F89-8F9E-370FDD5EA89D}|KayraCQRSMediator\\KayraCQRSMediator.csproj|c:\\users\\mert\\source\\repos\\kayracqrsmediator\\kayracqrsmediator\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F78BC9-B051-4F89-8F9E-370FDD5EA89D}|KayraCQRSMediator\\KayraCQRSMediator.csproj|solutionrelative:kayracqrsmediator\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F78BC9-B051-4F89-8F9E-370FDD5EA89D}|KayraCQRSMediator\\KayraCQRSMediator.csproj|c:\\users\\mert\\source\\repos\\kayracqrsmediator\\kayracqrsmediator\\features\\cqrs\\handlers\\categoryhandlers\\createcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F78BC9-B051-4F89-8F9E-370FDD5EA89D}|KayraCQRSMediator\\KayraCQRSMediator.csproj|solutionrelative:kayracqrsmediator\\features\\cqrs\\handlers\\categoryhandlers\\createcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F78BC9-B051-4F89-8F9E-370FDD5EA89D}|KayraCQRSMediator\\KayraCQRSMediator.csproj|c:\\users\\mert\\source\\repos\\kayracqrsmediator\\kayracqrsmediator\\areas\\admin\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0F78BC9-B051-4F89-8F9E-370FDD5EA89D}|KayraCQRSMediator\\KayraCQRSMediator.csproj|solutionrelative:kayracqrsmediator\\areas\\admin\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F78BC9-B051-4F89-8F9E-370FDD5EA89D}|KayraCQRSMediator\\KayraCQRSMediator.csproj|c:\\users\\mert\\source\\repos\\kayracqrsmediator\\kayracqrsmediator\\areas\\admin\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0F78BC9-B051-4F89-8F9E-370FDD5EA89D}|KayraCQRSMediator\\KayraCQRSMediator.csproj|solutionrelative:kayracqrsmediator\\areas\\admin\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\Areas\\Admin\\Views\\Product\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "KayraCQRSMediator\\Areas\\Admin\\Views\\Product\\UpdateProduct.cshtml",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\Areas\\Admin\\Views\\Product\\UpdateProduct.cshtml",
+              "RelativeToolTip": "KayraCQRSMediator\\Areas\\Admin\\Views\\Product\\UpdateProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:23:57.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\Areas\\Admin\\Views\\Product\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "KayraCQRSMediator\\Areas\\Admin\\Views\\Product\\CreateProduct.cshtml",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\Areas\\Admin\\Views\\Product\\CreateProduct.cshtml",
+              "RelativeToolTip": "KayraCQRSMediator\\Areas\\Admin\\Views\\Product\\CreateProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:19:22.681Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -42,6 +85,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "KayraCQRSMediator\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "KayraCQRSMediator\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:11:58.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\Features\\CQRS\\Handlers\\CategoryHandlers\\CreateCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "KayraCQRSMediator\\Features\\CQRS\\Handlers\\CategoryHandlers\\CreateCategoryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\Features\\CQRS\\Handlers\\CategoryHandlers\\CreateCategoryCommandHandler.cs",
+              "RelativeToolTip": "KayraCQRSMediator\\Features\\CQRS\\Handlers\\CategoryHandlers\\CreateCategoryCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T18:56:41.484Z",
+              "EditorCaption": ""
             }
           ]
         }

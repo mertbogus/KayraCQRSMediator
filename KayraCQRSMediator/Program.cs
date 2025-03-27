@@ -1,3 +1,5 @@
+using FluentValidation;
+using FluentValidation.AspNetCore;
 using KayraCQRSMediator.DataAcces.Context;
 using KayraCQRSMediator.Features.CQRS.Handlers.CategoryHandlers;
 using KayraCQRSMediator.Repositories;
@@ -8,6 +10,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 //auto mapper ekle, bulunduðun katman da arat.
 builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
+
+builder.Services.AddFluentValidationAutoValidation().AddFluentValidationClientsideAdapters().
+    AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
 
 //MediatR ayarlanmasý 
 builder.Services.AddMediatR(config =>

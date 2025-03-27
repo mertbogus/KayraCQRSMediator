@@ -266,3 +266,7 @@ C:\Users\MERT\source\repos\KayraCQRSMediator\KayraCQRSMediator\obj\Debug\net8.0\
 C:\Users\MERT\source\repos\KayraCQRSMediator\KayraCQRSMediator\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\MERT\source\repos\KayraCQRSMediator\KayraCQRSMediator\bin\Debug\net8.0\MediatR.dll
 C:\Users\MERT\source\repos\KayraCQRSMediator\KayraCQRSMediator\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\MERT\source\repos\KayraCQRSMediator\KayraCQRSMediator\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\MERT\source\repos\KayraCQRSMediator\KayraCQRSMediator\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\MERT\source\repos\KayraCQRSMediator\KayraCQRSMediator\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\MERT\source\repos\KayraCQRSMediator\KayraCQRSMediator\obj\Debug\net8.0\KayraCQRSMediator.MvcApplicationPartsAssemblyInfo.cs
