@@ -5,6 +5,338 @@
       "PackagePath": "staticwebassets\\KayraCQRSMediator.431jo1lru8.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\css\\vendor.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\arct-icon.png",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\arct-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\banner-image-1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\banner-image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\banner-image-2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\banner-image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\banner-image-3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\banner-image-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\banner-image-4.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\banner-image-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\banner-image-5.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\banner-image-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\banner-image-6.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\banner-image-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\bg-newsletter.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\bg-newsletter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\cat-item1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\cat-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\cat-item2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\cat-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\cat-item3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\cat-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\cat-large-item1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\cat-large-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\cat-large-item2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\cat-large-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\cat-large-item3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\cat-large-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\cat-sm-item.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\cat-sm-item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\cat-sm-item2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\cat-sm-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\cat-sm-item3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\cat-sm-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\collection-banner.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\collection-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\dhl-logo.png",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\dhl-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\insta-item1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\insta-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\insta-item2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\insta-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\insta-item3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\insta-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\insta-item4.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\insta-item4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\insta-item5.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\insta-item5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\insta-item6.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\insta-item6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\light-logo.png",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\light-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\logo3.png",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\logo4.png",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\logo4.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\logo5.png",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\logo5.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\main-logo.png",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\main-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\master-card.png",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\master-card.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\newsletter-image.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\newsletter-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\pattern-bg.png",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\pattern-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\paypal-card.png",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\paypal-card.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\post-image1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\post-image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\post-image2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\post-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\post-image3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\post-image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\post-image4.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\post-image4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\post-image5.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\post-image5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\post-image6.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\post-image6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\post-image7.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\post-image7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\post-image8.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\post-image8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\post-image9.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\post-image9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\post-large-image1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\post-large-image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\post-large-image2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\post-large-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\post-large-image3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\post-large-image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\post-large-image4.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\post-large-image4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\post-small-image1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\post-small-image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\post-small-image2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\post-small-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\post-small-image3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\post-small-image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\product-item-1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\product-item-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\product-item-10.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\product-item-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\product-item-2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\product-item-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\product-item-3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\product-item-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\product-item-4.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\product-item-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\product-item-5.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\product-item-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\product-item-6.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\product-item-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\product-item-7.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\product-item-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\product-item-8.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\product-item-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\product-item-9.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\product-item-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\single-image-2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\single-image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\text-pattern.png",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\text-pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\video-image-2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\video-image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\video-image.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\video-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\visa-card.png",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\visa-card.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\wishlist-item1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\wishlist-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\wishlist-item2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\wishlist-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\images\\wishlist-item3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\images\\wishlist-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\index.html",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\js\\SmoothScroll.js",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\js\\SmoothScroll.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\js\\script.min.js",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\js\\script.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\readme.txt",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\Templates\\kaira-1.0.0\\style.css",
+      "PackagePath": "staticwebassets\\Templates\\kaira-1.0.0\\style.css"
+    },
+    {
       "Id": "C:\\Users\\MERT\\source\\repos\\KayraCQRSMediator\\KayraCQRSMediator\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
